@@ -34,8 +34,14 @@ li{
     font-size: 1rem;
     border-color: hsl(321, 100%, 78%);
     color: hsl(321, 100%, 78%);
+    background-color: white;
 
 
+}
+
+.button-try:hover{
+    background-color: rgb(255, 201, 210);
+    cursor: pointer;
 }
 .container{
     display: flex;
@@ -156,10 +162,11 @@ li{
 }
 
 #foot{
-    padding-top: 100px;
+    padding-top: 250px;
     background-image: url(images/bg-footer-top-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
+
 }
 
 .lorem-text{
@@ -196,6 +203,10 @@ li{
     overflow:hidden;
     margin-top: 20px;
 }
+.logo-footer{
+   
+    filter: brightness(0) invert(1);}
+
 
 @media(max-width:680px){
     
