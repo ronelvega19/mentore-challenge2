@@ -43,6 +43,11 @@ li{
     background-color: rgb(255, 201, 210);
     cursor: pointer;
 }
+.btn-Get-Started:hover{
+    cursor: pointer;
+    background-color: rgb(248, 173, 186);
+    color: rgb(102, 102, 102);
+}
 .container{
     display: flex;
     justify-content: center;
