@@ -59,10 +59,14 @@ li{
     
 
 }
+.generate-text{
+    font-size: 1.5rem;
+    line-height: 28px;
+}
 
 .paragraph-text{
     width: 700px;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     margin: auto;
     color: hsl(192, 100%, 9%);
 }
