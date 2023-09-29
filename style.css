@@ -216,18 +216,3 @@ li{
    
     filter: brightness(0) invert(1);}
 
-
-@media(max-width:680px){
-    
-    
-    .communities-message{
-        display: grid;
-        grid-template-columns: 1fr;
-        margin-bottom: 80px;
-    
-    }
-    .mockup-image{
-        width: 100%;
-        margin: auto;
-    }
-}
